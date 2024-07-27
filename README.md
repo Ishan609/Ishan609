@@ -1,3 +1,4 @@
+<img alt="code" width=850 src="https://www.binarycode.co.nz/wp-content/uploads/2022/10/reports.gif">
 <h1 align="center">Hi 👋, I'm Ishan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
@@ -14,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ishan-b05948207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-b05948207" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ishandhingra798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ishandhingra798" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ishandhingra798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ishandhingra798" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
