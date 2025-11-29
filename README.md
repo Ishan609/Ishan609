@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ishandhingra798@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cgsT_Pj_ZXba3c2gtmwuV_l62yimmOXI/view?usp=sharing]([https://drive.google.com/file/d/1cgsT_Pj_ZXba3c2gtmwuV_l62yimmOXI/view?usp=sharing](https://drive.google.com/file/d/1LRXRlf0gr2LtpVNFdy3Stt7zgeCxpX33/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cgsT_Pj_ZXba3c2gtmwuV_l62yimmOXI/view?usp=sharing](https://drive.google.com/file/d/1LRXRlf0gr2LtpVNFdy3Stt7zgeCxpX33/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
