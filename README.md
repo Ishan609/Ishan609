@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Ishan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Virtual Calculator using OpenCV**
+- 🔭 I’m currently working as **Engineer-Analytics at STJ Pvt Ltd**
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **Python, SQL, Statistics, Power BI, Machine Learning**
 
 - 📫 How to reach me **ishandhingra798@gmail.com**
 
